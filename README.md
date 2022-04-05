@@ -1,4 +1,4 @@
-### FlatTubeScracthDetection
+### Flat Tube Scracth Detection Algorithm
 
 #### 1. Introduction
 * This project detect the scratches on the flat tubes by using Monte Carlo cubic Bezier curve fitting;
@@ -12,3 +12,6 @@ The dataset used in this project can be downloaded from both Google drive or Bai
 (1)Google drive: https://drive.google.com/drive/folders/1t-BcDLRctE2xUIKKI0op5puZ2Rm-2aId?usp=sharing
 
 (2)Baidu YunPan: https://pan.baidu.com/s/1yPwXqIipJG-elxQZIVb24g   password : uhfm 
+
+#### 4.Copyright
+The copyright of this project is reserved to Cao Songxiao of China Jiliang University, please contact caosongxiao@cjlu.edu.cn if there is any problem with using this code.
