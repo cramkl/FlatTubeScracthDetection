@@ -1,4 +1,8 @@
 ### FlatTubeScracthDetection
 
 #### 1. Introduction
-This project detect the scratches on the flat tubes by using Monte Carlo cubic Bezier curve fitting;
+* This project detect the scratches on the flat tubes by using Monte Carlo cubic Bezier curve fitting;
+* This project is using MFC of VisualStudio, and note that this code only including the key source codes in the MFC project,so if you want to use this code, please create a new MFC project and copy the core code to your project.
+#### 2. Requirements
+* VS2015 or higher
+* OpenCV 2.4.13 or higher
